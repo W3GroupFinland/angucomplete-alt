@@ -1,6 +1,8 @@
 angucomplete-alt
 ============
 
+**NOTE:** This is a W3 Group fork that adds name to input field so that it is accessible in form object.
+
 This is a fork of Daryl Rowland's angucomplete (https://github.com/darylrowland/angucomplete) with a bit of tweaks such as:
 
 * change long attribute names to hyphenated ones
